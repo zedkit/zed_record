@@ -1,0 +1,8 @@
+
+= Gem for Dynamic ZedDB Models
+
+More details TBA.
+
+== Copyright
+
+Copyright (c) 2010 Zedkit. See LICENSE for details. http://www.zedkit.com.
